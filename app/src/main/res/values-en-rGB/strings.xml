@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_search">Fair Email search</string>
+    <string name="app_search">FairEmail search</string>
     <string name="app_send_self">Send to myself</string>
     <string name="app_changelog">Changelog</string>
     <string name="app_welcome">FairEmail is an open source email app focused on privacy and security. For this reason some features might work differently from what you are used to.</string>
